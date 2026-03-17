@@ -1,1 +1,0 @@
-/usr/bin/c++  -Wall -Wshadow -Wl,--dependency-file=CMakeFiles/parametri_cmake.dir/link.d CMakeFiles/parametri_cmake.dir/parametri_es1.cpp.o -o parametri_cmake
