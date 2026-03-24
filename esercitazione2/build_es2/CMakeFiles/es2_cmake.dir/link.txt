@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wshadow -Wl,--dependency-file=CMakeFiles/es2_cmake.dir/link.d CMakeFiles/es2_cmake.dir/esercitazione2_primialgoritmi.cpp.o -o es2_cmake
